@@ -1,4 +1,4 @@
-service: node-in-aws-web
+service: kirbanan-first-app
 
 frameworkVersion: '2'
 
@@ -18,7 +18,7 @@ plugins:
 
 custom:
   client:
-    bucketName: node-in-aws-web-bucket
+    bucketName: kirbanan-first-app
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
