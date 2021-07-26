@@ -16,7 +16,7 @@
 			</p>
 
 			<p class="text-body2 text--secondary">
-				Copyright ©
+				Copyright © (kirbanan)
 				{{ $t('app.title') }}
 				{{ currentDate }}
 			</p>
