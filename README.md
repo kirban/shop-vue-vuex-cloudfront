@@ -1,5 +1,5 @@
-[Link to S3 Bucket](http://kirbanan-first-app.s3-website-eu-west-1.amazonaws.com/)
-[Link to CloudFront](https://d1bkt47zufnr4.cloudfront.net/)
+[Link to S3 Bucket](http://kirbanan-second-app.s3.eu-west-1.amazonaws.com/)
+[Link to CloudFront](https://d1m9f63jdzneha.cloudfront.net/)
 
 Automated hints:
 
